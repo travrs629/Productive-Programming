@@ -12,7 +12,7 @@ The types of programming languages are classified into `Scriping/Interpreted Lan
 
 |language|type|description(what's special)| applications|
 |---|---|---|---|
-|Python|High/Middle Level Language|1. Extensive libraries available for import<br>2. `Write Once Run Anywhere(WORA)` - can be extended and embedded in any languages and platforms<br>3. Interpreted language - statements are executed one by one, instead of being compiled as a whole (slow execution as a result).<br>4. Simplified Codes and Formatting (also no variable types, resulting in a very high memory consumption).|Pros: <br>- Web Development<br>- Web Scrapping<br>- AI/Machine Learning<br>- Data Analysis<br>- Automated Operation<br><br>Cons: <br>- mobile development|
+|Python|High/Middle Level Language|1. Extensive libraries available for import<br>2. `Write Once Run Anywhere(WORA)` - can be extended and embedded in any languages and platforms<br>3. Interpreted language - statements are executed one by one, instead of being compiled as a whole (slow execution as a result).<br>4. Simplified Codes and Formatting (also no variable types, resulting in a very high memory consumption).|Pros: Web Development, Web Scrapping, AI/Machine Learning, Data Analysis, Automated Operation<br>Cons: mobile development|
 |Java|
 |JavaScript
 |C#
