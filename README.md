@@ -73,10 +73,17 @@
 要尋找一些感興趣的項目，持續地投入資源，保持編程的動力。
 
 
-|有趣項目|竣工日期|完成？ |
+|有趣項目|竣工日期|完成？|
 |---|---|---|
 |*知乎項目*|
 |1. 完成一個針對知乎的爬蟲，能夠於電腦開機時每6小時爬取特定名單的主頁。如果名單中的答主超過7天沒有上線，即彈出警告彈窗詢問是否需要進一步了解。 |未定| [ ] |
 |2.加入成為Caritas2.0的開發者一員，加強可用性。 |未定| [ ] |
 |*HSU項目*|
 |1.構建一個小型軟件，用於保存HSU課件的數據庫。可將其變成一個`多合一`的應用程式，加上爬取並一鍵生成課表的圖片。 |未定| [ ] |
+
+## 目录导航
+
+|文章|内容|
+|---|---|
+|[知識理論](https://github.com/travrs629/Productive-Programming/blob/main/knowledge-theory.md)|用於保存從知乎用戶[牛岱](https://github.com/niudai/How-to-be-a-good-programmer)獲得的，有關`知識理論`層面的回答。| 
+|[編程101](https://github.com/travrs629/Productive-Programming/blob/main/programming-101.md)|用於保存自己總結的，對於編程圈子的概覽。| 

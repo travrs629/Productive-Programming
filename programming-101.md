@@ -49,13 +49,13 @@ Other popular languages: |PHP
 
 |libraries|type|description|
 |---|---|---|
-|**Interacting with webpages**||
+|*Interacting with webpages*||
 |Requests|HTTP library|A simple API for interacting with `HTTP` operations such as `GET`, `POST`, etc.<br>1. Can send request to the HTTP server, and `GET` response back in the form of `HTML` or `JSON` response. <br>2. Can send `POST` requests to modify or add some content.|
 |Urllib3|HTTP library|A user-friendly and standard `HTTP` client that collects several modules working with `URLs`.<br><br>Even `requests` library internally uses `urllib3`.|
-|**Parsing broken `HTML`**||
+|*Parsing broken `HTML`*||
 |BeautifulSoup|Python library|A Python library that are designed to extract data from `HTML` and `XML` files, yet requiring the help of `HTML` libraries and parsers.<br><br>`beautiful soups` now support internal `lxml parsing`.<br><br>Here's some advantages and disadvantages of the internal parsers (extracted from the [official website](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-a-parser)):<br><table><tr><th>Name</th><th>Advantages</th><th>disadvantages</th></tr><tr><td>Python's html.parser</td><td>1. Batteries included<br>2. Decent speed<br>3. Lenient (as of `Python` 3.2. and after)</td><td>1. Not very lenient compared to `html5lib`<br>2. Slower than `lxml`</td></tr><tr><td>lxml's `HTML `parser</td><td>1. Very fast<br>2. Lenient</td><td>1. External `C` dependency</td></tr><tr><td>lxml's `XML` parser</td><td>1. Very fast<br>2. The only currently supported `XML` parser</td><td>1. External `C` dependency</td></tr><tr><td>html5lib</td><td>1. Extremely lenient<br>2. Parses pages as same as a web browser does<br>3. Creates valid `HTML5`</td><td>1. Very slow<br>2. External `Python` dependency</td></tr></table><br>Simple for beginners and suitable for a few particular websites that requires crawling.|
 |lxml|Python library|A `Python` library that handles `XML` and `HTML` files easily.<br><br>As mentioned by [simon](https://stackoverflow.com/a/4967121/14499516), it performs better when the source is well-formed, yet it is very fast.|
-|**Processing the whole web scrapping procedures (able)**||
+|*Processing the whole web scrapping procedures (able)*||
 |Scrapy|Web Crawling Framework|A high-level web-crawling framework that are designed to scrape large scale of websites.<br><br>Suitable for websites with `JavaScript` or `AJAX` dynamic data loading technologies, or login authentication and search mechanism.|
 |Selenium|Automation Testing Tool|An open-source automation testing tool taht control web browsers through programs and perform browser automation.<br><br>Suitable for large-scale web cralwer projects, which have certain efficiency requirements and need to deal with complex crawling logic.|
 
